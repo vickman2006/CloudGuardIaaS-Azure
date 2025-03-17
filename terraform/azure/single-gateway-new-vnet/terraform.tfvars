@@ -1,18 +1,11 @@
 #PLEASE refer to the README.md for accepted values for the variables below
 
 # Estos valores los obtendras del correo con el acceso que te llego despues de lanzar el laboratorio, 
-#2
 
 #subscription_id                 = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                   # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 #tenant_id                       = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                   # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 #client_id                       = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                   # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 #client_secret                   = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                   # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-
-subscription_id                 = "da759247-2907-4073-80aa-e477c4a3342f"                                   # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-tenant_id                       = "5658ff49-b311-4a71-bb01-4e39c97ca3fa"                                   # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-client_id                       = "5e68fa44-d55d-4051-9003-fcd85888d1bb"                                   # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-client_secret                   = "ttR8Q~qoUqStbNHAVcIkWNf2fEtVKtBKSYH0Fbc5"                               # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-
 
 source_image_vhd_uri            = "noCustomUri"                                                            # "noCustomUri"
 resource_group_name             = "checkpoint-single-gw-sdwan"                                             # "checkpoint-single-terraform"
