@@ -154,9 +154,11 @@ variable "vnet_allocation_method" {
   default     = "Dynamic"
 }
 
+/* Valor para el SKU de la IP pública */
 variable "sku" {
-  description = "SKU para el recurso de IP pública."
+  description = "SKU para el recurso de IP pública (por ejemplo, Basic o Standard)."
   type        = string
+  default     = "Standard"
 }
 
 /***********************************************
