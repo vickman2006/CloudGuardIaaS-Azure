@@ -2,10 +2,10 @@
 
 # Estos valores los obtendras del correo con el acceso que te llego despues de lanzar el laboratorio, 
 
-#subscription_id                 = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                   # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-#tenant_id                       = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                   # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-#client_id                       = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                   # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-#client_secret                   = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                   # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+#subscription_id                 = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                  # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+#tenant_id                       = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                  # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+#client_id                       = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                  # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+#client_secret                   = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                  # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 source_image_vhd_uri            = "noCustomUri"                                                            # "noCustomUri"
 resource_group_name             = "checkpoint-single-gw-sdwan"                                             # "checkpoint-single-terraform"
@@ -17,8 +17,8 @@ frontend_1_subnet_prefix        = "10.0.0.0/24"                                 
 frontend_2_subnet_prefix        = "10.0.1.0/24"                                                            # "10.0.0.0/24"
 backend_subnet_prefix           = "10.0.2.0/24"                                                            # "10.0.1.0/24"
 management_GUI_client_network   = "0.0.0.0/0"                                                              # "0.0.0.0/0"
-admin_password                  = "Admin012345."                                                               # "xxxxxxxxxxxx"
-smart_1_cloud_token             = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                  # ""
+admin_password                  = "Admin012345."                                                           # "xxxxxxxxxxxx"
+smart_1_cloud_token             = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                   # ""
 sic_key                         = "123456789012"                                                           # "xxxxxxxxxxxx"
 vm_size                         = "Standard_D8_v3"                                                         # "Standard_D3_v2"
 disk_size                       = "110"                                                                    # "110"
