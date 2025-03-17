@@ -142,11 +142,6 @@ variable "backend_subnet_prefix" {
   type        = string
 }
 
-variable "extra_subnet_prefix" {
-  description = "Prefijo de la subred para la NIC extra (eth3)."
-  type        = string
-}
-
 variable "nsg_id" {
   description = "ID del NSG existente (opcional)."
   type        = string
