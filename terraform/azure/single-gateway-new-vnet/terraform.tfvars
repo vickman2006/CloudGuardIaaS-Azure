@@ -1,7 +1,7 @@
 #PLEASE refer to the README.md for accepted values for the variables below
 
 # Estos valores los obtendras del correo con el acceso que te llego despues de lanzar el laboratorio, 
-
+#2
 
 #subscription_id                 = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                   # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 #tenant_id                       = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                   # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
