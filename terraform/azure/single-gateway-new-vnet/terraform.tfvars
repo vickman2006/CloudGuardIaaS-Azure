@@ -1,8 +1,14 @@
 #PLEASE refer to the README.md for accepted values for the variables below
-client_secret                   = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                   # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-client_id                       = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                   # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-tenant_id                       = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                   # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+# Estos valores los obtendras del correo con el acceso que te llego despues de lanzar el laboratorio, 
+
+
 subscription_id                 = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                   # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+tenant_id                       = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                   # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+client_id                       = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                   # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+client_secret                   = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"                                   # "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+
 source_image_vhd_uri            = "noCustomUri"                                                            # "noCustomUri"
 resource_group_name             = "checkpoint-single-gw-terraform"                                         # "checkpoint-single-terraform"
 single_gateway_name             = "checkpoint-single-gw-terraform"                                         # "checkpoint-single-terraform"
